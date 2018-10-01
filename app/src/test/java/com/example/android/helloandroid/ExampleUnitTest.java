@@ -1,4 +1,4 @@
-package com.example.android.helloandroid2;
+package com.example.android.helloandroid;
 
 import org.junit.Test;
 

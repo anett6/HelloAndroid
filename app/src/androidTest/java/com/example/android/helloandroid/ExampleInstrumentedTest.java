@@ -1,4 +1,4 @@
-package com.example.android.helloandroid2;
+package com.example.android.helloandroid;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

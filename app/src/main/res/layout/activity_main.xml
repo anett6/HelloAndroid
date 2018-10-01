@@ -11,7 +11,7 @@
         android:background="#E3F2FD"
         android:gravity="center_horizontal"
         android:orientation="vertical"
-        tools:context="com.example.android.helloandroid2.MainActivity">
+        tools:context="com.example.android.helloandroid.MainActivity">
 
 
         <ImageView
